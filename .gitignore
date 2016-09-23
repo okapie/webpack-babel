@@ -1,0 +1,9 @@
+node_modules/
+
+### .DS_Store ###
+dist/.DS_Store
+dist/js/.DS_Store
+src/.DS_Store
+
+### .js ###
+dist/**/*.js
